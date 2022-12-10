@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick!
 - 👀 I’m interested in Formula 1, lacrosse, football, and sailing
-- 🌱 I’m currently learning full-stack web development
+- 🌱 I am a full stack web developer
 - 💞️ I’m looking to collaborate on anything tech
 - 📫 Reach me at nicholasabbott98@gmail.com
 
